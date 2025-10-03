@@ -6,6 +6,11 @@ body {
   font-family: "sans-serif";
 }
 
+#speciallist {
+  background-color: gold;
+  padding: 20px;
+  border: 1px solid black;
+}
 h1 {
   font-size: 40px;
 }
